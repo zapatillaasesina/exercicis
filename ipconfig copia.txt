@@ -57,7 +57,3 @@ Adaptador de t£nel isatap.{9FB878D7-1CB3-4CBE-9AF4-26549CDCFF3B}:
 
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
-
-
-
-dj., 19 / maig / 2016 13:21:28
